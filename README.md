@@ -1,3 +1,6 @@
+Do not use this fork.  This is a temporary fork until jdewit accepts my pull request: https://github.com/jdewit/bootstrap-timepicker/pull/159
+
+
 # Bootstrap Timepicker for Rails
 This is the gemified version of https://github.com/jdewit/bootstrap-timepicker
 
@@ -55,5 +58,5 @@ Set time via data-time attribute.
 <div class='input-append bootstrap-timepicker-component' style='display: inline;'>
   <input class='dateselect-time input-small' type='text' data-time='12:45 PM'>
   <span class='add-on'><i class='icon-time'></i></span>
-</div> 
+</div>
 
